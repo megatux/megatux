@@ -1,4 +1,8 @@
-# megatux
+# Megatux stuff on GitHub
+
+Hi, I don't like to have everything here, so this are some external links:
 
 * [My homepage is here](https://megatux.me).
-* [LinkedIn profile](https://www.linkedin.com/in/molinacristian/).
+* My [LinkedIn profile is here](https://www.linkedin.com/in/molinacristian/).
+
+Have a nice day & happy hacking.
